@@ -20,6 +20,7 @@ This is especially the case when the state of any particular message or form on 
 - [storeon](https://github.com/storeon/storeon) 🌩 A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
 - [xsm](https://github.com/peterluhub/xsm) State Management made eXtraordinarily simple and effective for Angular, React, and Vue
 - [xoid](https://xoid.dev) ⚛️ Scalable, fine-grained, and minimal state-management library for React and vanilla JavaScript
+- [awai](https://github.com/yuriyyakym/awai) Promised state management library where every event is thennable, which allows to write logic in a saga-like way using async functions
 
 ___
 ## react
